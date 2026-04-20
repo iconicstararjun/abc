@@ -1,2 +1,2 @@
 # abc
-get
+get all things
